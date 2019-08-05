@@ -8,7 +8,7 @@ public class Happy {
 		System.out.println("TestGit");
 		SimpleDateFormat sdf = new SimpleDateFormat();
 		
-		System.out.println("hot fix ÐÞ¸Ä¡£¡£¡£µÄ");
+		System.out.println("hot fix 123");
 	}
 	
 }
